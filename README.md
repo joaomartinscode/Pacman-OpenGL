@@ -28,6 +28,6 @@ A classic Pacman clone written in **C** using **OpenGL** (GLUT/FreeGLUT). This p
 2.  **Open in Visual Studio:**
     * Launch the `pacman.sln` file.
 3.  **Install Dependencies:**
-    * Ensure **FreeGLUT** is installed (easily done via NuGet packages in Visual Studio or by linking the libraries manually).
+    * Ensure **FreeGLUT** is installed.
 4.  **Build:**
     * Press **F5** to compile and run.
